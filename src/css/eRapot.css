@@ -1,0 +1,158 @@
+.container {
+  width: 80%;
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #f9f9f9;
+}
+
+.grid-container {
+  display: flex;
+  width: 100%;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+.grid-container-info {
+  display: flex;
+  width: 100%;
+  gap: 50px;
+  margin-bottom: 20px;
+}
+
+.grid-item-info {
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  text-align: center;
+  width: 100%;
+  padding: 10px 0;
+}
+
+.grid-item-info-edit {
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  text-align: center;
+  width: 100%;
+  padding: 10px 0;
+  background-color: #FFF2C8;
+}
+
+.grid-item-info-download {
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  text-align: center;
+  width: 100%;
+  padding: 10px 0;
+  background-color: #22C55E;
+}
+
+.grid-item {
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  text-align: center;
+  width: 100%;
+}
+
+/* Excel */
+.grid-item-excel {
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  text-align: center;
+  width: 100%;
+}
+.grid-item-excel:hover {
+  background-color: #a9a9a9;
+}
+
+.grid-item-excel:active {
+  background-color: #696969;
+}
+
+/* End Excel */
+
+/* Nim */
+.grid-item-nim {
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  text-align: center;
+  width: 100%;
+}
+.grid-item-nim:hover {
+  background-color: #a9a9a9;
+}
+
+.grid-item-nim:active {
+  background-color: #696969;
+}
+
+/* End Nim */
+
+.grid-item-sub-bab {
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  text-align: center;
+  background-color: #3B82F6;
+  padding: 7px 20px;
+}
+
+/* Semester */
+.grid-item-sub-bab-flex {
+  display: flex;
+  border: none;
+  border-radius: 10px;
+  text-align: center;
+  background-color: #3B82F6;
+  padding: 7px 20px;
+  gap: 10px;
+}
+
+.grid-item-sub-bab-semester {
+  border: none;
+  border-radius: 10px;
+  text-align: center;
+  background-color: #3B82F6;
+}
+
+.grid-item-sub-bab-flex:hover,
+.grid-item-sub-bab-semester:hover {
+  background-color: #2563EB; /* Warna latar belakang ketika di-hover (biru lebih terang) */
+}
+
+.grid-item-sub-bab-flex:active,
+.grid-item-sub-bab-semester:active {
+  background-color: #1E40AF; /* Warna latar belakang ketika di-klik (biru lebih gelap) */
+}
+/* End Semester */
+
+.table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.table th, .table td {
+  border: 1px solid #ccc;
+  padding: 10px;
+  text-align: left;
+  vertical-align: top;
+}
+
+.table th {
+  background-color: #D9D9D9;
+  font-weight: bold;
+  text-align: center;
+}
+
+.attendance-section {
+  margin-top: 20px;
+}
+
+.attendance-section h2 {
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.attendance-section div {
+  font-size: 1.2rem;
+  margin-bottom: 5px;
+}

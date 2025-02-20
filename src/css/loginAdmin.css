@@ -1,0 +1,37 @@
+#background{
+    width: 100vw;
+    height: 100vh;
+}
+
+.main-cont{
+    width: 100vw;
+    height: 100vh;
+    position: absolute;
+    top: 0;
+
+}
+
+.login-cont{
+    height: 100%;
+    padding: 80px 0px;
+    display: flex;
+    justify-content: center;
+}
+
+.login-card {
+    height: 100%;
+    width: 80%;
+    border-radius: 20px;
+    background-color: #D9D9D9;
+}
+
+input.input-login{
+    background-color: #D9D9D900;
+    border: none;
+    border-bottom: rgba(0, 0, 0, 0.263) solid 1px;
+}
+
+input:focus{
+    outline: none;
+    box-shadow: none;
+}

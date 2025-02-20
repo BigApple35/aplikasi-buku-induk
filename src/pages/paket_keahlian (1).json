@@ -1,0 +1,239 @@
+[
+  {
+    "bidang_keahlian": "TEKNOLOGI DAN REKAYASA",
+    "program_keahlian": [
+      {
+        "nama_program": "TEKNIK BANGUNAN",
+        "paket_keahlian": ["Teknik Konstruksi Baja", "Teknik Konstruksi Kayu", "Teknik Konstruksi Batu dan Beton", "Teknik Gambar Bangunan"]
+      },
+      {
+        "nama_program": "TEKNIK FURNITUR",
+        "paket_keahlian": ["Teknik Furnitur"]
+      },
+      {
+        "nama_program": "TEKNIK PLAMBING DAN SANITASI",
+        "paket_keahlian": ["Teknik Plambing & Sanitasi"]
+      },
+      {
+        "nama_program": "GEOMATIKA",
+        "paket_keahlian": ["Geomatika"]
+      },
+      {
+        "nama_program": "TEKNIK KETENAGALISTRIKAN",
+        "paket_keahlian": ["Teknik Pembangkit Tenaga Listrik", "Teknik Jaringan Tenaga Listrik", "Teknik Instalasi Pemanfaatan Tenaga Listrik", "Teknik Otomasi Industri", "Teknik Pendingin dan Tata Udara"]
+      },
+      {
+        "nama_program": "TEKNIK MESIN",
+        "paket_keahlian": ["Teknik Pemesinan", "Teknik Pengelasan", "Teknik Fabrikasi Logam", "Teknik Pengecoran Logam", "Teknik Pemeliharaan Mekanik Industri", "Teknik Gambar Mesin"]
+      },
+      {
+        "nama_program": "TEKNIK PESAWAT UDARA",
+        "paket_keahlian": ["Pemeliharaan dan Perbaikan Motor dan Rangka Pesawat Udara (Airframe Power Plant)", "Pemeliharaan dan Perbaikan Instrumen Elektronika Pesawat Udara (Electrical Avionics)", "Pemesinan Pesawat Udara (Aircraft Machining)", "Konstruksi Badan Pesawat Udara (Aircraft Sheet Metal Forming)", "Konstruksi Rangka Pesawat Udara (Airframe Mechanics)", "Kelistrikan Pesawat Udara (Aircraft Electricity)", "Elektronika Pesawat Udara (Aviation Electronics)"]
+      },
+      {
+        "nama_program": "TEKNIK GRAFIKA",
+        "paket_keahlian": ["Persiapan Grafika", "Produksi Grafika"]
+      },
+      {
+        "nama_program": "TEKNIK INSTRUMENTASI INDUSTRI",
+        "paket_keahlian": ["Teknik Instrumentasi Logam", "Kontrol Proses", "Kontrol Mekanik"]
+      },
+      {
+        "nama_program": "TEKNIK INDUSTRI",
+        "paket_keahlian": ["Teknik Pelayanan Produksi", "Teknik Pergudangan"]
+      },
+      {
+        "nama_program": "TEKNOLOGI TEKSTIL",
+        "paket_keahlian": ["Teknik Pemintalan Serat Buatan", "Teknik Pembuatan Benang", "Teknik Pembuatan Kain", "Teknik Penyempurnaan Tekstil"]
+      },
+      {
+        "nama_program": "TEKNIK PERMINYAKAN",
+        "paket_keahlian": ["Teknik Produksi Minyak dan Gas", "Teknik Pemboran Minyak dan Gas", "Teknik Pengolahan Minyak, Gas dan Petrokimia"]
+      },
+      {
+        "nama_program": "GEOLOGI PERTAMBANGAN",
+        "paket_keahlian": ["Geologi Pertambangan"]
+      },
+      {
+        "nama_program": "TEKNIK KIMIA",
+        "paket_keahlian": ["Kimia Analisis", "Kimia Industri"]
+      },
+      {
+        "nama_program": "TEKNIK OTOMOTIF",
+        "paket_keahlian": ["Teknik Kendaraan Ringan", "Teknik Sepeda Motor", "Teknik Perbaikan Bodi Otomotif", "Teknik Alat Berat"]
+      },
+      {
+        "nama_program": "TEKNIK PERKAPALAN",
+        "paket_keahlian": ["Teknik Konstruksi Kapal Baja", "Teknik Konstruksi Kapal Kayu", "Teknik Konstruksi Kapal Fiberglass", "Teknik Instalasi Pemesinan Kapal", "Teknik Pengelasan Kapal", "Kelistrikan Kapal", "Teknik Gambar Rancang Bangun Kapal", "Interior Kapal"]
+      },
+      {
+        "nama_program": "TEKNIK ELEKTRONIKA",
+        "paket_keahlian": ["Teknik Audio Video", "Teknik Elektronika Industri", "Teknik Elektronika Komunikasi", "Teknik Mekatronika", "Teknik Ototronik"]
+      },
+      {
+        "nama_program": "TEKNIK ENERGI TERBARUKAN",
+        "paket_keahlian": ["Teknik Energi Hidro", "Teknik Energi Surya dan Angin", "Teknik Energi Biomassa"]
+      }
+    ]
+  },
+  {
+    "bidang_keahlian": "TEKNOLOGI INFORMASI DAN KOMUNIKASI",
+    "program_keahlian": [
+      {
+        "nama_program": "TEKNIK KOMPUTER DAN INFORMATIKA",
+        "paket_keahlian": ["Rekayasa Perangkat Lunak", "Teknik Komputer dan Jaringan", "Multimedia"]
+      },
+      {
+        "nama_program": "TEKNIK TELEKOMUNIKASI",
+        "paket_keahlian": ["Teknik Transmisi Telekomunikasi", "Teknik Suitsing", "Teknik Jaringan Akses"]
+      },
+      {
+        "nama_program": "TEKNIK BROADCASTING",
+        "paket_keahlian": ["Pertelevisian dan Radio"]
+      }
+    ]
+  },
+  {
+    "bidang_keahlian": "KESEHATAN",
+    "program_keahlian": [
+      {
+        "nama_program": "KESEHATAN",
+        "paket_keahlian": ["Keperawatan Kesehatan", "Keperawatan Gigi", "Analis Kesehatan"]
+      },
+      {
+        "nama_program": "FARMASI",
+        "paket_keahlian": ["Farmasi Umum", "Farmasi Industri"]
+      },
+      {
+        "nama_program": "PEKERJAAN SOSIAL",
+        "paket_keahlian": ["Pekerjaan Sosial"]
+      }
+    ]
+  },
+  {
+    "bidang_keahlian": "AGRIBISNIS DAN AGROTEKNOLOGI",
+    "program_keahlian": [
+      {
+        "nama_program": "AGRIBISNIS PRODUKSI TANAMAN",
+        "paket_keahlian": ["Agribisnis Tanaman Pangan dan Hortikultura", "Agribisnis Tanaman Perkebunan", "Agribisnis Perbenihan dan Kultur Jaringan Tanaman"]
+      },
+      {
+        "nama_program": "AGRIBISNIS PRODUKSI TERNAK",
+        "paket_keahlian": ["Agribisnis Ternak Ruminansia", "Agribisnis Ternak Unggas", "Agribisnis Aneka Ternak"]
+      },
+      {
+        "nama_program": "KESEHATAN HEWAN",
+        "paket_keahlian": ["Kesehatan Hewan"]
+      },
+      {
+        "nama_program": "AGRIBISNIS PENGOLAHAN HASIL PERTANIAN DAN PERIKANAN",
+        "paket_keahlian": ["Teknologi Pengolahan Hasil Pertanian", "Teknologi Pengolahan Hasil Perikanan", "Pengawasan Mutu Hasil Pertanian dan Perikanan"]
+      },
+      {
+        "nama_program": "MEKANISASI PERTANIAN",
+        "paket_keahlian": ["Alat Mesin Pertanian", "Teknik Tanah dan Air"]
+      },
+      {
+        "nama_program": "KEHUTANAN",
+        "paket_keahlian": ["Teknik Inventarisasi dan Pemetaan Hutan", "Teknik Rehabilitasi dan Reklamasi Hutan", "Teknik Produksi Hasil Hutan", "Teknik Konservasi Sumberdaya Hutan"]
+      }
+    ]
+  },
+  {
+    "bidang_keahlian": "PERIKANAN DAN KELAUTAN",
+    "program_keahlian": [
+      {
+        "nama_program": "TEKNOLOGI PENANGKAPAN IKAN",
+        "paket_keahlian": ["Nautika Kapal Penangkap Ikan", "Teknika Kapal Penangkap Ikan"]
+      },
+      {
+        "nama_program": "TEKNOLOGI DAN PRODUKSI PERIKANAN BUDIDAYA",
+        "paket_keahlian": ["Budidaya Ikan"]
+      },
+      {
+        "nama_program": "TEKNOLOGI DAN PRODUKSI PERIKANAN BUDIDAYA",
+        "paket_keahlian": ["Budidaya Krustacea", "Budidaya Kekerangan", "Budidaya Rumput Laut"]
+      },
+      {
+        "nama_program": "PELAYARAN",
+        "paket_keahlian": ["Nautika Kapal Niaga", "Teknika Kapal Niaga"]
+      }
+    ]
+  },
+  {
+    "bidang_keahlian": "BISNIS DAN MANAJEMEN",
+    "program_keahlian": [
+      {
+        "nama_program": "ADMINISTRASI",
+        "paket_keahlian": ["Administrasi Perkantoran"]
+      },
+      {
+        "nama_program": "KEUANGAN",
+        "paket_keahlian": ["Akuntansi", "Perbankan Umum", "Perbankan Syariah"]
+      },
+      {
+        "nama_program": "TATA NIAGA",
+        "paket_keahlian": ["Pemasaran"]
+      }
+    ]
+  },
+  {
+    "bidang_keahlian": "PARIWISATA",
+    "program_keahlian": [
+      {
+        "nama_program": "KEPARIWISATAAN",
+        "paket_keahlian": ["Akomodasi Perhotelan", "Usaha Perjalanan Wisata"]
+      },
+      {
+        "nama_program": "TATA BOGA",
+        "paket_keahlian": ["Jasa Boga", "Patiseri"]
+      },
+      {
+        "nama_program": "TATA KECANTIKAN",
+        "paket_keahlian": ["Kecantikan Rambut", "Kecantikan Kulit"]
+      },
+      {
+        "nama_program": "TATA BUSANA",
+        "paket_keahlian": ["Tata Busana"]
+      }
+    ]
+  },
+  {
+    "bidang_keahlian": "SENI RUPA DAN KERAJINAN",
+    "program_keahlian": [
+      {
+        "nama_program": "SENI RUPA",
+        "paket_keahlian": ["Seni Lukis", "Seni Patung", "Desain Komunikasi Visual", "Animasi", "Desain Produk Interior & Landscaping"]
+      },
+      {
+        "nama_program": "DESAIN DAN PRODUKSI KRIA",
+        "paket_keahlian": ["Desain dan Produksi Kriya Kayu", "Desain dan Produksi Kriya Kulit", "Desain dan Produksi Kriya Logam", "Desain dan Produksi Kriya Keramik", "Desain dan Produksi Kriya Tekstil"]
+      }
+    ]
+  },
+  {
+    "bidang_keahlian": "SENI PERTUNJUKAN",
+    "program_keahlian": [
+      {
+        "nama_program": "SENI MUSIK",
+        "paket_keahlian": ["Musik Klasik", "Musik Non Klasik"]
+      },
+      {
+        "nama_program": "SENI TARI",
+        "paket_keahlian": ["Seni Tari"]
+      },
+      {
+        "nama_program": "SENI KARAWITAN",
+        "paket_keahlian": ["Karawitan Tradisi"]
+      },
+      {
+        "nama_program": "SENI PEDALANGAN",
+        "paket_keahlian": ["Seni Pedalangan"]
+      },
+      {
+        "nama_program": "SENI TEATER",
+        "paket_keahlian": ["Pemeranan", "Tata Artistik"]
+      }
+    ]
+  }
+]

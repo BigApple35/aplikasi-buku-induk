@@ -1,0 +1,50 @@
+img { 
+    width: 100vw;
+    height: 100vh;
+    object-fit: cover;
+}
+
+@font-face {
+    font-family: "Coolvetica";
+    src: local("Coolvetica"), url("../font/coolvetica\ rg.otf") format("truetype");
+}
+
+
+.main-container{
+    width: 100vw;
+    height: 100vh;
+    top: 0;
+    position: absolute;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-family: "Coolvetica";
+    color: white;
+}
+
+.main-container button {
+    width: 715px;
+    height: 50px;
+    padding: 10px;
+    border-radius: 15px;
+    border: none;
+    margin-bottom: 20px;
+}
+
+.main-container button#button2 {
+    width: 715px;
+    height: 50px;
+    margin-top: 20px;
+    padding: 10px;
+    border-radius: 15px;
+    color: white;
+    background-color: #0C7FDA;
+    border: none;
+}
+
+*{
+    font-family: "Coolvetica" !important;
+}
+

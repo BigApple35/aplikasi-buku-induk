@@ -1,0 +1,29 @@
+thead tr {
+    background-color: #CFD7DE;
+}
+
+thead tr td{
+    padding: 10px 10px;
+    
+}
+
+tbody tr{
+    border-bottom: 1px black solid;
+}
+
+td{
+    text-align: center;
+}
+
+tbody tr  td{
+    padding: 5px 0px;
+}
+
+
+.col-aksi {
+    display: flex;
+    width: fit-content;
+    width: 100%;
+    justify-content: center;
+    gap: 10px;
+}

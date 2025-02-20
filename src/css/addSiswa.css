@@ -1,0 +1,163 @@
+.nav-form-cont {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  gap: 10px;
+  justify-content: start;
+}
+
+.input-dataDiri {
+  width: 100%;
+  background-color: #cdcdcd80;
+  border: none;
+  border-radius: 10px;
+}
+
+.nav-form-cont .btn-secondary {
+  background-color: #849bb0 !important;
+  border: none;
+}
+
+.btn-form-nav {
+  font-size: 20px !important ;
+  padding: 2px 30px !important;
+}
+
+.form-area {
+  display: none;
+}
+
+.active {
+  display: flex;
+}
+
+.btn-header {
+  border: none;
+  background-color: #00000000;
+  border-radius: 999px;
+  padding: 15px;
+}
+
+.btn-header:hover {
+  background-color: #ffffff;
+}
+
+/* Section Tab Active and Hover */
+
+.nav-tabs {
+  display: flex;
+  justify-content: space-between;
+  position: relative;
+  width: 100%;
+  border-bottom: 2px solid #cdcdcd;
+}
+
+.tab {
+  background-color: transparent;
+  border: none;
+  padding: 10px 15px;
+  font-size: 16px;
+  font-weight: semi-bold;
+  cursor: pointer;
+  color: black;
+  text-align: center;
+  min-width: 100px;
+  position: relative;
+}
+
+.tab:hover {
+  color: #3b82f6;
+}
+
+.active-tab {
+  color: #3b82f6;
+}
+
+.active-tab::after {
+  content: "";
+  position: absolute;
+  bottom: -2px;
+  left: 0;
+  width: 100%;
+  height: 4px;
+  background-color: blue;
+}
+
+/* Section Keterangan Data Diri */
+/* styles.css */
+.container {
+  width: 60%;
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #f9f9f9;
+}
+
+.form-section {
+  margin-bottom: 20px;
+}
+
+.form-group-row {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 15px;
+}
+
+.form-group {
+  width: 48%; /* Ensuring all form fields have consistent width */
+}
+
+.form-group label {
+  display: block;
+  margin-bottom: 5px;
+  font-weight: bold;
+}
+
+.form-group input,
+.form-group select {
+  width: 100%; /* Ensure input and select have full width */
+  padding: 8px;
+  border: 1px solid #ccc; /* Consistent border */
+  border-radius: 4px;
+  box-sizing: border-box; /* Ensure padding does not affect width */
+}
+
+.button-section {
+  display: flex;
+  justify-content: space-between;
+}
+
+.button-section button {
+  width: 48%;
+  padding: 10px;
+  border: 1px solid #ccc; /* Consistent border with inputs */
+  border-radius: 4px;
+  background-color: #fff;
+  font-size: 16px;
+  cursor: pointer;
+  transition: box-shadow 0.3s ease;
+}
+
+.button-section button.active {
+  box-shadow: 0 4px 8px rgba(0, 0, 255, 0.5);
+}
+
+.custom-datepicker {
+  cursor: pointer;
+  border-radius: 4px;
+  border: 1px solid #ced4da;
+  transition: border 0.2s ease-in-out;
+}
+
+.custom-datepicker:focus {
+  outline: none !important;
+  border-radius: 4px !important;
+  border: 1px solid #ced4da !important;
+  box-shadow: none !important;
+}
+
+.custom-datepicker::placeholder {
+  color: #000 !important;
+  opacity: 1;
+}

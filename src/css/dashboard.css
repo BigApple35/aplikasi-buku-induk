@@ -1,0 +1,47 @@
+.title {
+    font-size: 32px;
+    font-family: "Coolvetica";
+    width: 100%;
+    border-bottom: 2px solid black;
+    padding-left: 24px;
+    padding-bottom: 20px;
+    margin-top: 30px;
+}
+
+
+.card-container{
+    border: 2px #9747FF dashed;
+    border-radius: 5px;
+    height: 365px;
+}
+
+.search-box{
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+    margin-top: 20px;
+
+}
+
+.search-bar{
+    display: flex;
+    gap: 20px;
+    width: 60%;
+    border: #9747FF solid 1px;
+    align-items: center;
+    border-radius: 20px;
+    padding: 0px 20px;
+}
+
+.search-bar input{
+    flex-grow: 1;
+    height: 55px;
+    background-color: #9747FF00;
+    border: 0;
+}
+
+.search-bar input:focus{
+    outline: none;
+}

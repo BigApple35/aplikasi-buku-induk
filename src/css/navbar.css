@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Epilogue:ital,wght@0,100..900;1,100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Epilogue:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+
+*{
+    font-family: "Inter", sans-serif ;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+nav {
+    background-color: #161A23;
+    width: 305px;
+    display: flex;
+    flex-direction: column;
+    gap: 24px 0px;  
+    padding: 0px 24px;
+}
+
+.divider {
+    width: 100%;
+    height: 1px;
+    background-color: rgba(255, 255, 255, 0.241);
+}
+
+.navbar-main {
+    color: #ffffff;
+    opacity: .5;
+    gap: 8px;
+    display: flex;
+    flex-direction: column;
+}
+
+.navbar-button {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    font-size: 14px;    
+    padding: 10px 12px;
+    border-radius: 8px;
+    border: none;
+    color: white;
+    background-color: #161A2300;
+    list-style: none;
+    text-decoration: none;
+}
+
+.navbar-button.active{
+    background-color: #2D2F39;
+    opacity: 1;
+}
+
+.navbar-button:hover {
+    background-color: #2D2F39;
+    opacity: 1;
+}
+
+h1, h2, h3, h4, h5, h6{
+    font-family: "Epilogue", sans-serif;
+
+}
+
